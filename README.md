@@ -1,3 +1,3 @@
 <div>
-  https://komarev.com/ghpvc/?username=kbcats
+  <img src="https://komarev.com/ghpvc/?username=kbcats">
 </div>
